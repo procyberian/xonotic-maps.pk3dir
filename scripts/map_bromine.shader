@@ -1,3 +1,22 @@
+textures/map_bromine/skull
+{
+	qer_editorimage textures/map_bromine/skull
+
+	surfaceparm trans
+	surfaceparm nonsolid
+
+	polygonOffset
+	cull none
+
+
+	{
+		map textures/map_bromine/skull
+		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		rgbgen identity
+	}
+
+}
+
 textures/map_bromine/effects_warpzone/wavy
 {
 	dpoffsetmapping none
