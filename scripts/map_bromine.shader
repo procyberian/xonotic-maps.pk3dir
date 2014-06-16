@@ -1,20 +1,30 @@
+textures/map_bromine/sky
+{
+	qer_editorimage textures/skies/exosystem2.tga
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	surfaceparm nomarks
+	surfaceparm sky
+	//q3map_sun <red> <green> <blue> <intensity> <degrees> <elevation>
+	q3map_sun 1 .40625 .17578125 120 -55.452 55
+	q3map_skylight 170 4
+	skyparms env/exosystem2/exosystem2 - -
+}
+
+
+
 textures/map_bromine/skull
 {
 	qer_editorimage textures/map_bromine/skull
-
 	surfaceparm trans
 	surfaceparm nonsolid
-
 	polygonOffset
 	cull none
-
-
 	{
 		map textures/map_bromine/skull
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		rgbgen identity
 	}
-
 }
 
 textures/map_bromine/effects_warpzone/wavy
