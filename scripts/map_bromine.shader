@@ -47,7 +47,7 @@ textures/map_bromine/effects_warpzone/orangeedge
 {
 	surfaceparm nonsolid
 	surfaceparm nomarks
-	q3map_surfacelight 2500
+	q3map_surfacelight 1500
 	cull none
 	{
 		map textures/map_bromine/effects_warpzone/orangeedge.tga
