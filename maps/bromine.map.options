@@ -1,5 +1,4 @@
 -bsp +
--light +
--vis + 
--minimap +
-Version: 1a
+-vis +
+-light + -dirtscale 2 -bounce 6
+Version: 1b
