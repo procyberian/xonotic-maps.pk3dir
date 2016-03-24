@@ -1,4 +1,4 @@
 -bsp +
 -vis +
 -light + -dirtscale 2 -bounce 6
-Version: 1d
+Version: 2

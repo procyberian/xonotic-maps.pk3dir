@@ -11,7 +11,19 @@ textures/map_bromine/sky
 	skyparms env/exosystem2/exosystem2 - -
 }
 
-
+textures/map_bromine/bromine_logo
+{
+	qer_editorimage textures/map_bromine/bromine_logo
+	surfaceparm trans
+	surfaceparm nonsolid
+	polygonOffset
+	cull none
+	{
+		map textures/map_bromine/bromine_logo
+		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		rgbgen identity
+	}
+}
 
 textures/map_bromine/skull
 {
