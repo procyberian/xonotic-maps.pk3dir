@@ -4,10 +4,9 @@ has weapons
 cdtrack 20
 gametype ca
 gametype dm
+gametype dom
 gametype ft
 gametype ka
 gametype kh
 gametype lms
 gametype tdm
-
-clientsettemp_for_type all r_water 1

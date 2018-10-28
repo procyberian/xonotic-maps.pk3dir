@@ -11,20 +11,6 @@ textures/map_bromine/sky
 	skyparms env/exosystem2/exosystem2 - -
 }
 
-textures/map_bromine/bromine_logo
-{
-	qer_editorimage textures/map_bromine/bromine_logo
-	surfaceparm trans
-	surfaceparm nonsolid
-	polygonOffset
-	cull none
-	{
-		map textures/map_bromine/bromine_logo
-		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
-		rgbgen identity
-	}
-}
-
 textures/map_bromine/skull
 {
 	qer_editorimage textures/map_bromine/skull
@@ -65,25 +51,4 @@ textures/map_bromine/effects_warpzone/orangeedge
 		map textures/map_bromine/effects_warpzone/orangeedge.tga
 		blendfunc GL_SRC_ALPHA GL_ONE
 	}
-}
-
-textures/map_bromine/liquid
-{
-	qer_editorimage textures/map_bromine/liquid.tga
-	qer_trans 20
-	surfaceparm nomarks
-	surfaceparm trans
-	surfaceparm slime
-	surfaceparm nolightmap
-	cull none
-	q3map_surfacelight 400
-	q3map_lightSubdivide 64
-	q3map_globaltexture
-	{
-		map textures/map_bromine/liquid.tga
-		tcmod scale 1.2 0.7
-		tcMod scroll 0.0075 0.0025
-        blendfunc blend
-	}
-	dp_water 0.1 0.8  3 3  0.5 1 0.5  0.5 1 0.5  0.75
 }
