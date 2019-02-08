@@ -21739,7 +21739,7 @@ brushDef
 "modelscale_vec" "1.200000 1.200000 1.576289"
 }
 {
-"classname" "misc_model"
+"classname" "misc_gamemodel"
 "origin" "-230.274979 -1316.270996 97.011978"
 "model" "models/jumppads/jumppad01.ase"
 "angles" "-0.000000 -45.424000 -43.202187"
@@ -23794,10 +23794,6 @@ brushDef
 {
 "classname" "item_health_medium"
 "origin" "912.000000 403.000000 280.000000"
-}
-{
-"classname" "func_group"
-"_lightmapscale" "0.2"
 }
 {
 "classname" "misc_model"
