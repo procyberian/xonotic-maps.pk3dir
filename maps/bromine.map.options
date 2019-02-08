@@ -1,4 +1,6 @@
 -bsp +
 -vis +
 -light + -dirtscale 2 -bounce 6
-Version: 2f
+-minimap +
+-sRGB
+Version: 2g
