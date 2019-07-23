@@ -1,17 +1,3 @@
-//TELEPORTER 
-
-textures/map_opium/opium_teleporter_beam
-{
-	surfaceparm nonsolid
-	surfaceparm nomarks
-	cull none
-	q3map_surfacelight 500
-	{
-		map textures/opium/opium_teleporter_beam.tga
-		blendfunc GL_SRC_ALPHA GL_ONE
-	}
-}
-
 //PIPE LIQUID
 
 textures/map_opium/lava0_blue_flow_pipe
@@ -83,22 +69,5 @@ textures/map_opium/floor-simplines
 		rgbGen identity
 		tcGen lightmap
 		blendfunc filter
-	}
-}
-
-//AD BOARD SCANLINES
-
-textures/map_opium/opium_scanlines
-{
-	qer_editorimage textures/opium/opium_scanlines.tga
-	surfaceparm noimpact
-	surfaceparm trans
-	cull disable
-	surfaceparm nonsolid
-	qer_trans 0.25
-	{
-		map textures/opium/opium_scanlines.tga
-		blendfunc GL_SRC_ALPHA GL_ONE
-		tcMod scroll 0 -0.75
 	}
 }

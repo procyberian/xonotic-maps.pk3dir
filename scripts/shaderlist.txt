@@ -59,7 +59,6 @@ skies_exosystem
 skies_extragalactic
 skies_heaven
 skies_polluted_earth
-skies_opium_heaven
 stein1x
 techpanelx
 terrain01x
