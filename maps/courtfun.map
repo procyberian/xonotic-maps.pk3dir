@@ -27932,7 +27932,6 @@ map_courtfun/screenanim_xon
 "skin" "0"
 "_castshadows" "1"
 "solid" "4"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -27941,7 +27940,6 @@ map_courtfun/screenanim_xon
 "skin" "0"
 "_castshadows" "1"
 "solid" "4"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -27950,7 +27948,6 @@ map_courtfun/screenanim_xon
 "skin" "0"
 "_castshadows" "1"
 "solid" "4"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -27959,7 +27956,6 @@ map_courtfun/screenanim_xon
 "skin" "0"
 "_castshadows" "1"
 "solid" "4"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -27968,7 +27964,6 @@ map_courtfun/screenanim_xon
 "skin" "0"
 "_castshadows" "1"
 "solid" "4"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -31293,7 +31288,6 @@ map_courtfun/screenanim_xon
 "_castshadows" "1"
 "solid" "4"
 "angle" "-179.999985"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -31303,7 +31297,6 @@ map_courtfun/screenanim_xon
 "_castshadows" "1"
 "solid" "4"
 "angle" "-179.999985"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -31313,7 +31306,6 @@ map_courtfun/screenanim_xon
 "_castshadows" "1"
 "solid" "4"
 "angle" "-179.999985"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -31323,7 +31315,6 @@ map_courtfun/screenanim_xon
 "_castshadows" "1"
 "solid" "4"
 "angle" "-179.999985"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -31333,7 +31324,6 @@ map_courtfun/screenanim_xon
 "_castshadows" "1"
 "solid" "4"
 "angle" "-179.999985"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_jumppad01_lod1.md3"
 }
 {
 "classname" "misc_gamemodel"
@@ -35105,7 +35095,6 @@ map_courtfun/screenanim_xon
 "gametypefilter" "+rc,cts"
 "_castshadows" "-2"
 "_receiveshadows" "2"
-"lodmodel1" "models/xonotic_jumppad01/xonotic_launchpad01_lod1.md3"
 }
 {
 "classname" "onslaught_generator"
